@@ -1,5 +1,5 @@
 <p align="center">
-  ![Airbus_A380M](https://github.com/kanakaero/Performance-Analysis-Airbus-A380M/assets/93387754/74748cec-6b20-4f46-9cdc-67f88f7373ea)
+  <img src="https://github.com/kanakaero/Performance-Analysis-Airbus-A380M/assets/93387754/74748cec-6b20-4f46-9cdc-67f88f7373ea">
 <p/>
 <br/>
 
